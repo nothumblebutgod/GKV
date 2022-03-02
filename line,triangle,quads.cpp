@@ -1,8 +1,8 @@
 /*  Nama         : Ananda Rizky Pratama
     NIM          : 24060121140118
-    Nama File    : Tugas1Nomor2.cpp
+    Nama File    : KubusBertingkat.cpp
     Deskripsi    : membuat program dari fungsi GL_LINE_STRIP, GL_LINE_LOOP, 
-				   GL_TRIANGLE_FAN, GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP.
+		   GL_TRIANGLE_FAN, GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP.
 */
 
 #include <Gl/glut.h> 
