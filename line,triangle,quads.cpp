@@ -1,6 +1,6 @@
 /*  Nama         : Ananda Rizky Pratama
     NIM          : 24060121140118
-    Nama File    : KubusBertingkat.cpp
+    Nama File    : line,triangle,quads.cpp
     Deskripsi    : membuat program dari fungsi GL_LINE_STRIP, GL_LINE_LOOP, 
 		   GL_TRIANGLE_FAN, GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP.
 */
