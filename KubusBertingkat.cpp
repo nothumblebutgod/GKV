@@ -1,8 +1,4 @@
-/*  Nama         : Ananda Rizky Pratama
-    NIM          : 24060121140118
-    Nama File    : Tugas1Nomor2.cpp
-    Deskripsi    : membuat program Gambar Kubus bertingkat dari objek primitif
-*/
+
 
 #include <Gl/glut.h> 
 #include <stdlib.h>
