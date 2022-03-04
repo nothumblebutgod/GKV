@@ -3,7 +3,7 @@
 #include <Gl/glut.h> 
 #include <stdlib.h>
 
-void LTQ(void){
+void Ltq1(void){
     //membersihkan layar dan men-set dalam format warna
     glClear (GL_COLOR_BUFFER_BIT);
     
