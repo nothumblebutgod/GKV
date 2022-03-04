@@ -1,14 +1,9 @@
-/*  Nama         : Ananda Rizky Pratama
-    NIM          : 24060121140118
-    Nama File    : line,triangle,quads.cpp
-    Deskripsi    : membuat program dari fungsi GL_LINE_STRIP, GL_LINE_LOOP, 
-		   GL_TRIANGLE_FAN, GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP.
-*/
+
 
 #include <Gl/glut.h> 
 #include <stdlib.h>
 
-void Tugas1(void){
+void LTQ(void){
     //membersihkan layar dan men-set dalam format warna
     glClear (GL_COLOR_BUFFER_BIT);
     
@@ -105,7 +100,7 @@ void Tugas1(void){
 // glutInit(&argc,argv);
 // glutInitWindowSize(1600,1000);
 // glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
-// glutCreateWindow("TugasNomor2");
+// glutCreateWindow("line,triangle,quads");
 // glutDisplayFunc(Tugas1); 
 // glClearColor (0.0f,0.0f, 0.0f, 0.0f);
 // glutMainLoop();
