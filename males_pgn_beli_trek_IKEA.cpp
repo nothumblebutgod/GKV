@@ -1,7 +1,7 @@
 /*
-// Nama			: Ananda Rizky Pratama
-// NIM			: 24060121140118
-// Lab			: GKV B2
+// Nama		: Ananda Rizky Pratama
+// NIM		: 24060121140118
+// Lab		: GKV B2
 // Nama	File	: Truk_Gandeng_IKEA
 // Deskripsi	: membuat 3d model truk gandeng dengan menambahkan depth dan lighting
 */
