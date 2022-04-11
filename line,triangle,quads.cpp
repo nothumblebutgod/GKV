@@ -95,14 +95,14 @@ void Ltq1(void){
 }
 
     
-// int main(int argc, char*argv[])
-// {
-// glutInit(&argc,argv);
-// glutInitWindowSize(1600,1000);
-// glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
-// glutCreateWindow("line,triangle,quads");
-// glutDisplayFunc(Tugas1); 
-// glClearColor (0.0f,0.0f, 0.0f, 0.0f);
-// glutMainLoop();
-// return 0;
-// }
+int main(int argc, char*argv[])
+{
+glutInit(&argc,argv);
+glutInitWindowSize(1600,1000);
+glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
+glutCreateWindow("line,triangle,quads");
+glutDisplayFunc(Tugas1); 
+glClearColor (0.0f,0.0f, 0.0f, 0.0f);
+glutMainLoop();
+return 0;
+}
